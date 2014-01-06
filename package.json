@@ -1,16 +1,8 @@
 {
-  "name": "bootstrap-tables",
-  "version": "2.3.1",
+  "name": "CamShaft-bootstrap-tables",
   "description": "Bootstrap Tables Component",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/CamShaft/bootstrap-tables.git"
-  },
-  "author": "",
-  "license": "APLv2",
-  "readmeFilename": "Readme.md",
-  "devDependencies": {
-    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.3.1.tar.gz",
-    "recess": "~1.1.6"
-  }
+  "version": "2.3.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "APLv2"
 }
